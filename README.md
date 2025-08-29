@@ -1,4 +1,4 @@
-* Assignment 3- Library Management with Node, Express, MongoDB, and Mongoose *
+# Assignment 3- Library Management with Node, Express, MongoDB, and Mongoose 
 
-*** Dpendencies ***
+## Dpendencies 
  Express, Typescript, ts-node-dev, cors, dotenv, mongoose 
